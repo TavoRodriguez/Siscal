@@ -1,0 +1,22 @@
+#principal {
+    background-color: black !important;
+}
+
+#center {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+#separator {
+    padding-bottom: 1rem;
+}
+
+#footer {
+    text-align: center;
+}
+
+#cardDay:hover {
+    -webkit-box-shadow: 5px 5px 11px -3px #424242;
+    box-shadow: 5px 5px 11px -3px #424242;
+    
+}
